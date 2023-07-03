@@ -1,5 +1,5 @@
 import React from "react";
-import videoBg from "../Assets/Videos/pexels_videos_1409899 (2160p).mp4";
+import videoBg from "../Assets/Videos/production_id_3703474 (1080p).mp4";
 const LandingPage = () => {
   return (
     <div>
